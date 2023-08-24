@@ -1,0 +1,6 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "git.ignoreLimitWarning": true,
+  "liveServer.settings.port": 5501
+}

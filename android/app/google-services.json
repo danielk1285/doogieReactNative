@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1024747278448",
+    "project_id": "testdoogie",
+    "storage_bucket": "testdoogie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024747278448:android:9353b50cdd145e8571a4b5",
+        "android_client_info": {
+          "package_name": "com.doogy.transfer.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024747278448-eempghfaboofihlhl51e7cms20mvdr4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doogy.transfer.app",
+            "certificate_hash": "ebfd308daef44b56af7166d0cef978fc0ec2191b"
+          }
+        },
+        {
+          "client_id": "1024747278448-db39tv3ged4qt4p3ff2ec8tmh8q3inne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC04fnjpCQJM745qXxM2iDFXDlTAl0juRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024747278448-db39tv3ged4qt4p3ff2ec8tmh8q3inne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024747278448-391jp35l5jqot6ekii9896vv7n8ec5kg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.doggie.transfertest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
